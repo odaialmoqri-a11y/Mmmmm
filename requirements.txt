@@ -1,12 +1,13 @@
 # ملف requirements.txt لمشروع Mmmmm
 
 # حزم أساسية لمشاريع Python
-Django==5.0
-requests==2.32.0
-numpy==1.27.0
-pandas==2.1.0
-matplotlib==3.8.0
-scipy==1.11.0
-pytest==7.7.0
-black==23.9.1
-flake8==6.0.0
+Django
+requests
+numpy
+pandas
+matplotlib
+scipy
+pytest
+black
+flake8
+flaske
